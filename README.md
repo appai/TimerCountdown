@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
+
 ## Quick start
 
 1.  Make sure that you have Node v8 or above installed.
